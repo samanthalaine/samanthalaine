@@ -7,8 +7,6 @@ I am a software developer and graduate of Flatiron's Software Engineering bootca
 - 📫 How to reach me: My Twitter @samanthacodes
 - 😄 Pronouns: She/Her
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samanthalaine&show_icons=true&theme=radical)
-
 
 
 
